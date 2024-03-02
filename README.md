@@ -17,3 +17,7 @@ Open a cell within the Google Colab environment (a text cell is recommended).
 Write your question in the cell. For instance: "Example of a linear regression model with PyTorch."
 Type <help> in the cell and press Enter.
 This process ensures that the question you've inputted is detected via the Tampermonkey plugin and forwarded to the proxy server. Subsequently, the proxy server relays this question to the main server, which in turn redirects the response back to the Tampermonkey plugin. Consequently, the received data is printed within the editor.
+
+## Disclaimer
+
+You may need to obtain permission for the API used; be aware that if any issues arise, you accept full responsibility for using this plugin.
